@@ -13,6 +13,7 @@
                 color: rgb(240, 240, 240);
                 width: 60%;
                 margin-left: 20%;
+                font-weight: bold;
             }
             
             #quote {

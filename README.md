@@ -1,6 +1,6 @@
 # Project 1
 + By: Nate Smith
-+ Production URL: <http://p1.dwa.nwlsmith.com>
++ Production URL: <http://p1.nwlsmith-dwa.me>
 
 ## Outside resources
 [Raleway Font from Google API](https://fonts.google.com/specimen/Raleway)
